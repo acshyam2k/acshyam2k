@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is, My name is, My name is chka-chka, Slim Shady!
+Not that, my name is Shyam! and I'm a to-be-ripped, life saver, software engineer, from planet earth</h2>
 
 ###
 
