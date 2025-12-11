@@ -52,9 +52,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/acshyam2k/acshyam2k/output/snake.svg" alt="Snake animation" />
-
-###
